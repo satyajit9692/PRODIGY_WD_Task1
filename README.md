@@ -1,4 +1,4 @@
 # PRODIGY_WD_Task1
 Responsive landing page with interactive fixed navigation, scroll and hover effects using HTML, CSS & JavaScript.
 <br>
-Author  - git Satyajit Sahoo
+Author  - Satyajit Sahoo
